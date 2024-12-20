@@ -1,0 +1,112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd025952a8312bd4da6b8b17a1679c93, type: 3}
+  m_Name: GameData
+  m_EditorClassIdentifier: 
+  _events: {fileID: 11400000, guid: 46b563e90f5ac5c4aa41a4971a3bafcd, type: 2}
+  _sauvegarde: {fileID: 11400000, guid: 60344cf5d075b434ab100b968862929c, type: 2}
+  nbCalculations:
+    currentValue: 217
+    initialValue: 0
+  nbCaliCoins:
+    currentValue: 28
+    initialValue: 0
+  nbDialolgs:
+    currentValue: 0
+    initialValue: 0
+  nbSolvedAssignments:
+    currentValue: 1
+    initialValue: 0
+  nbComplaints:
+    currentValue: 3
+    initialValue: 0
+  affectionMeter:
+    currentValue: -300
+    initialValue: 0
+  workplaceReputation:
+    currentValue: 2
+    initialValue: 0
+  longestStreak:
+    currentValue: 1
+    initialValue: 0
+  introFlag:
+    currentState: 1
+    initialState: 0
+  unlockedCasinoFlag:
+    currentState: 1
+    initialState: 0
+  isFriend:
+    currentState: 0
+    initialState: 0
+  isFWB:
+    currentState: 0
+    initialState: 0
+  hasSeenBoba:
+    currentState: 0
+    initialState: 0
+  hadSixNineEvent:
+    currentState: 0
+    initialState: 0
+  currentRank:
+    lvl: -1
+    tresHold: 0
+    rankTitle: The New Guy
+  ranks:
+  - lvl: -1
+    tresHold: 0
+    rankTitle: The New Guy
+  - lvl: 0
+    tresHold: 50
+    rankTitle: Corporate Slave
+  - lvl: 1
+    tresHold: 100
+    rankTitle: Abused Intern
+  - lvl: 2
+    tresHold: 250
+    rankTitle: Restless Employee
+  - lvl: 3
+    tresHold: 500
+    rankTitle: Employee of the Month
+  - lvl: 4
+    tresHold: 750
+    rankTitle: Assistant to the Manager
+  - lvl: 5
+    tresHold: 1250
+    rankTitle: Branch Manager
+  - lvl: 6
+    tresHold: 2500
+    rankTitle: Board Member
+  - lvl: 7
+    tresHold: 5000
+    rankTitle: CEO of Evil
+  - lvl: 8
+    tresHold: 10000
+    rankTitle: Tyranical Grand Overlord
+  - lvl: 9
+    tresHold: 25000
+    rankTitle: The Anthichrist
+  - lvl: 10
+    tresHold: 50000
+    rankTitle: Dark Diety
+  - lvl: 11
+    tresHold: 100000
+    rankTitle: Sinister God of Malice
+  - lvl: 12
+    tresHold: 999999
+    rankTitle: That Which Lurks Withing the Dark
+  boobsRequirement: 500
+  sixNineRequirement: 690
+  NegligibleAffection: 1
+  smallAffection: 5
+  mediumAffection: 10
+  bigAffection: 50
+  EnornousAffection: 100

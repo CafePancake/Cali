@@ -1,0 +1,142 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 09d3b0f2ee3d5934584d2172914705ce, type: 3}
+  m_Name: Dialogs
+  m_EditorClassIdentifier: 
+  _intro:
+    lines:
+    - Hiya!
+    - So,
+    - You're the new guy?
+    - Right?
+    - My name's Cali
+    - Nice to meet you!
+    - I'm afraid you're
+    - Stuck with me now
+    - Hahaha
+    - Just Kidding ;)
+    - Don't worry
+    - The job's simple
+    - You just have to
+    - Push my buttons
+    - Literally
+    - I won't keep you
+    - Any longer
+    - Let's get started :)
+    deliveryTime: 2.5
+    delay: 1.5
+  _unlockCasino:
+    lines:
+    - <777> huh?
+    - You like gambling?
+    - I have a
+    - Casino Module
+    - If you're interested
+    - But please
+    - Don't tell anyone
+    - Ok?
+    - Here's 5 calicoins
+    - To get you started
+    deliveryTime: 2.5
+    delay: 1.5
+  _interupt:
+  - lines:
+    - So um...
+    - Oh, were you busy?
+    - Ok I'll let you work
+    deliveryTime: 2.5
+    delay: 0.2
+  - lines:
+    - Psssst
+    - Oh, did I interupt?
+    - Sorry
+    deliveryTime: 2.5
+    delay: 0.2
+  - lines:
+    - Boo!
+    - Did I scare you?
+    - Yeah I bet I did
+    - Now go back to work
+    - You corpo slave
+    deliveryTime: 2.5
+    delay: 0.2
+  - lines:
+    - So I was wondering
+    - If you'd like
+    - To eat lunch
+    - Together
+    - Oh wait
+    - We don't have
+    - Lunch breaks...
+    - Or any breaks...
+    deliveryTime: 2.5
+    delay: 0.2
+  - lines:
+    - Did you hear?
+    - Some murder machine
+    - Escaped the vault
+    - Scary...
+    - If anything happened
+    - You'd protect me
+    - Right?
+    deliveryTime: 2.5
+    delay: 0.2
+  - lines:
+    - But what if...?
+    - No wouldn't work
+    - Be crazy if it did
+    - Maybe worth a try
+    - Uh what?
+    - No no nevermind
+    - Just talking
+    - You know
+    - To myself
+    - You wouldn't get it
+    deliveryTime: 2.5
+    delay: 0.2
+  _showBobs:
+    lines:
+    - ...what?
+    - I...uh...
+    - (.)(.)
+    - You saw nothing
+    - Are we clear?
+    - Good
+    - Back to work
+    - You perv ;)
+    deliveryTime: 2.5
+    delay: 1.5
+  _sixNine:
+    lines:
+    - Oh my xd
+    - Well I won't lie
+    - I am interested
+    - Maybe after work
+    - At your place?
+    - Great
+    - See you there ;)
+    deliveryTime: 2.5
+    delay: 1.5
+  _failedFlirt:
+  - lines:
+    - What the fuck
+    - Is wrong with you?
+    - I'll report this
+    - To HR
+    deliveryTime: 2.5
+    delay: 0.2
+  - lines:
+    - Ew no
+    - Stay away from me
+    - You fucking creep
+    deliveryTime: 2.5
+    delay: 0.2
